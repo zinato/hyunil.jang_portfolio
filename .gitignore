@@ -1,3 +1,17 @@
+######################
+# OSX
+######################
+
+.DS_Store
+
+# node modules #
 node_modules/
+
+# log file #
+*.log
+
+# intelliJ #
 .idea
-npm-debug.log
+
+# OS Files #
+.DS_Store
